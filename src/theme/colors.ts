@@ -55,7 +55,7 @@ export const baseColors = {
     textSubtle: "#fff",
     activeButton: "#397f49",
     borderColor: "#2a2a2a",
-    card: "#3B3B3B",
+    card: "#303030",
     nav: "rgba(22,22,22,0.7)",
     priceBackground: "#2a2a2a",
     priceBorder: "#2B373D",
