@@ -46,5 +46,7 @@ export { default as WarningIcon } from "./Icons/Warning";
 export { default as ClockIcon } from "./Icons/Clock";
 export { default as TwitterIcon } from "./Icons/Twitter";
 export { default as TelegramIcon } from "./Icons/Telegram";
+export { default as InstagramIcon } from "./Icons/Instagram";
+export { default as RedditIcon } from "./Icons/Reddit";
 export { default as Svg } from "./Svg";
 export type { SvgProps } from "./types";
